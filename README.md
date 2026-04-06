@@ -1,4 +1,5 @@
-<img width="943" height="488" alt="image" src="https://github.com/user-attachments/assets/7bda9990-52e7-4f0a-b7c3-69bb5b32424b" /># Google-Ads-performance-analysis
+Title=
+Google-Ads-performance-analysis
 
 Problem statement=
 Analyze Google Ads campaign data to identify performance trends, optimize ad spend, and improve conversions.
